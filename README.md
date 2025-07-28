@@ -3,7 +3,7 @@
 
 
 ### This Course Include The Following Tutorial
-<ul>
+<ol>
   <li>Excel basics</li>
   <li>Statistics</li>
   <li>SQL</li>
@@ -15,5 +15,5 @@
   <li>Power BI</li>
   <li>Google Studio</li>
   <li>Dax</li>
-</ul>
+</ol>
 <p> the reference for this course is: https://www.youtube.com/watch?v=oOv1gE0ER3I&list=PLonOrMR73lKiRTVZ65tKXwczwi09qzlUt </p>
