@@ -16,4 +16,4 @@
   <li>Google Studio</li>
   <li>Dax</li>
 </ul>
-### the reference for this course is: https://www.youtube.com/watch?v=oOv1gE0ER3I&list=PLonOrMR73lKiRTVZ65tKXwczwi09qzlUt
+<p> the reference for this course is: https://www.youtube.com/watch?v=oOv1gE0ER3I&list=PLonOrMR73lKiRTVZ65tKXwczwi09qzlUt </p>
