@@ -2,7 +2,7 @@
 
 
 
-### this course include the following tutorial
+### This Course Include The Following Tutorial
 <ul>
   <li>Excel basics</li>
   <li>Statistics</li>
